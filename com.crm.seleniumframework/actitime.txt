@@ -1,0 +1,4 @@
+browser firefox
+url https://demo.actitime.com/login.do
+un admin
+pwd manager
